@@ -171,7 +171,7 @@ Aqui está a implementação desse raciocínio em um script robusto, pronto para
 Bash
 #!/bin/bash
 
-# Configurações
+#Configurações
 DISK="nvme0n1" # Altere para o seu disco (ex: sda, nvme0n1)
 THRESHOLD=80
 INTERVAL=1
@@ -179,12 +179,12 @@ COUNT=2
 
 echo "Iniciando monitoramento de I/O para o disco $DISK..."
 
-# Captura a última coluna (%util) da segunda leitura do iostat
-# 1. iostat -dx: detalhado, apenas discos
-# 2. awk: busca a linha do disco e imprime a última coluna
+#Captura a última coluna (%util) da segunda leitura do iostat
+#1. iostat -dx: detalhado, apenas discos
+#2. awk: busca a linha do disco e imprime a última coluna
 UTIL=$(iostat -dx $INTERVAL $COUNT | grep "$DISK" | tail -n 1 | awk '{print $NF}')
 
-# Converte para inteiro para comparação simples no Bash
+#Converte para inteiro para comparação simples no Bash
 UTIL_INT=$(printf "%.0f" "${UTIL//,/.}" 2>/dev/null)
 
 if [ "$UTIL_INT" -gt "$THRESHOLD" ]; then
