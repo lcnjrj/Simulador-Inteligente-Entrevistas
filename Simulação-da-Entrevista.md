@@ -1,21 +1,22 @@
 # Simulação da Entrevista
-### Interlocutor: Olá! Vou fazer perguntas sobre a vaga que você está estruturando. Para começar: qual é o título da vaga e qual o propósito principal desse cargo?
+
+#### Interlocutor: Olá! Vou fazer perguntas sobre a vaga que você está estruturando. Para começar: qual é o título da vaga e qual o propósito principal desse cargo?
 
 Usuário: Desenvolvedor Linux Júnior.
 
-### Interlocutor: Entendido. Prosseguindo com a nossa estruturação técnica: Qual a senioridade esperada e por quê?
+#### Interlocutor: Entendido. Prosseguindo com a nossa estruturação técnica: Qual a senioridade esperada e por quê?
 
 Usuário: Junior, não tenho faculdade, nunca trabalhei na área, fiz vários cursos, uso linux desde 2001. tenho 46 anos.
 
-### Interlocutor: Entendido. É um perfil muito interessante para o mercado: a senioridade é Júnior pela transição de carreira e ausência de experiência profissional prévia na área, mas com uma bagagem técnica e maturidade de quem convive com o ecossistema Linux há mais de duas décadas. Isso traz uma base de sistema operacional que muitos juniores recém-formados não possuem. Seguindo nossa estrutura, o próximo ponto é a Stack: Quais tecnologias, frameworks e práticas são essenciais para essa vaga?
+#### Interlocutor: Entendido. É um perfil muito interessante para o mercado: a senioridade é Júnior pela transição de carreira e ausência de experiência profissional prévia na área, mas com uma bagagem técnica e maturidade de quem convive com o ecossistema Linux há mais de duas décadas. Isso traz uma base de sistema operacional que muitos juniores recém-formados não possuem. Seguindo nossa estrutura, o próximo ponto é a Stack: Quais tecnologias, frameworks e práticas são essenciais para essa vaga?
 
 Usuário: shell script, Node.js, Python com FastAPI, GitHub Actions, Git e GitHub, Uso de GitHub Copilot e ChatGPT para produtividade, AWS, Azure, linux.
 
-### Interlocutor: Uma stack bastante completa e estratégica para o cenário de Cloud e Automação atual. Para finalizarmos nossa estruturação: Quais comportamentos ou atitudes (soft skills) são mais valorizados para essa vaga?
+#### Interlocutor: Uma stack bastante completa e estratégica para o cenário de Cloud e Automação atual. Para finalizarmos nossa estruturação: Quais comportamentos ou atitudes (soft skills) são mais valorizados para essa vaga?
 
 Usuário: flexibilidade, inteligência emocional, comunicação assertiva, resolução de problemas e trabalho em equipe, remoto.
 
-Gemini said
+#### Gemini said
 Compreendido. Com a inclusão de inteligência emocional, comunicação assertiva e a dinâmica de trabalho remoto, fechamos um perfil de soft skills que busca equilíbrio entre a maturidade pessoal e a agilidade necessária para o ambiente tech.
 
 ## Passamos por todos os quatro pilares planejados:
@@ -28,7 +29,7 @@ Stack (Shell, Python/FastAPI, Cloud, IA)
 
 Soft Skills (Flexibilidade, Resolução de Problemas, Remoto)
 
-Podemos prosseguir com a geração do resumo analítico da vaga conforme estruturamos?
+#### Podemos prosseguir com a geração do resumo analítico da vaga conforme estruturamos?
 
 You said
 sim
@@ -36,7 +37,7 @@ sim
 Gemini said
 Como solicitado, aqui está o Resumo Analítico da vaga estruturada sob a perspectiva de um Head Hunter e Engenheiro de Sistemas.
 
-📋 Resumo Analítico: Desenvolvedor Linux Júnior
+### Resumo Analítico: Desenvolvedor Linux Júnior
 Esta vaga desenha um perfil híbrido raro no mercado: a energia de um profissional em início de carreira (Júnior) com a profundidade técnica de quem possui décadas de vivência no ecossistema de software livre.
 
 1. Perfil e Identidade do Cargo
@@ -73,12 +74,12 @@ Veredito: Esta vaga é ideal para um perfil de "Career Transitioner". A ausênci
 
 A estrutura da vaga está finalizada e validada.
 
-Gostaria que eu gerasse agora uma descrição de vaga (Job Description) otimizada para o LinkedIn baseada nesses pontos ou prefere que eu simule uma pergunta técnica difícil que esse candidato deveria saber responder?
+#### Gostaria que eu gerasse agora uma descrição de vaga (Job Description) otimizada para o LinkedIn baseada nesses pontos ou prefere que eu simule uma pergunta técnica difícil que esse candidato deveria saber responder?
 
-You said
+#### You said
 46 anos e vindo de uma base de "entusiasta", o foco não deve ser apenas em "aprender a programar", mas em como aplicar o conhecimento de sistema operacional para resolver problemas de negócio. A maturidade emocional é o maior trunfo para compensar a ausência de diploma acadêmico.
 
-Gemini said
+#### Gemini said
 Essa é a "chave de ouro" dessa estruturação. Como Engenheiro de Sistemas, assino embaixo: o mercado atual está saturado de pessoas que decoraram a sintaxe do Python, mas pouquíssimas entendem o que acontece "debaixo do capô" no Kernel ou no Sistema Operacional para otimizar um processo real.
 
 A maturidade emocional atua como o estabilizador: transforma o profissional em alguém que não entra em pânico durante um incidente em produção, algo que um diploma raramente ensina. O foco deixa de ser o "como eu escrevo este código" e passa a ser "como esta automação reduz o custo operacional ou aumenta a confiabilidade do serviço".
@@ -92,7 +93,7 @@ Tecnologia como Meio, não Fim: O uso de Shell Script, Python e IA deixa de ser 
 
 Faz total sentido e eleva o nível da vaga de "estagiário de luxo" para um parceiro técnico estratégico.
 
-Para testar essa mentalidade na prática, você gostaria que eu simulasse uma pergunta de "Cenário de Crise"?
+#### Para testar essa mentalidade na prática, você gostaria que eu simulasse uma pergunta de "Cenário de Crise"?
 
 (Nela, eu apresentaria um problema de negócio — como um gargalo crítico de performance — para você resolver usando sua experiência acumulada em Linux.)
 
@@ -100,19 +101,19 @@ You said
 sim
 
 Gemini said
-Excelente. Vamos colocar essa maturidade e o conhecimento de "quem já viu muita tela preta" à prova. Imagine que você está em uma entrevista final para uma empresa de tecnologia crítica (como um e-commerce ou uma fintech).
+#### Excelente. Vamos colocar essa maturidade e o conhecimento de "quem já viu muita tela preta" à prova. Imagine que você está em uma entrevista final para uma empresa de tecnologia crítica (como um e-commerce ou uma fintech).
 
-O Cenário de Crise:
+#### O Cenário de Crise:
 "Uma aplicação crítica de vendas (Python/FastAPI) rodando em containers Linux na AWS começou a apresentar uma latência altíssima subitamente. O time de suporte está enviando alertas de que os clientes não conseguem finalizar o checkout, o que gera prejuízo financeiro direto a cada minuto. O código da aplicação não foi alterado nas últimas 24 horas.
 
 Você acabou de acessar o servidor via SSH."
 
-Pergunta: Quais seriam os seus primeiros 3 comandos no terminal Linux para diagnosticar se o problema é de recurso (CPU/RAM), gargalo de I/O ou rede? E, considerando sua senioridade de vida, como você comunicaria o status inicial para o seu gestor enquanto ainda está investigando?
+#### Pergunta: Quais seriam os seus primeiros 3 comandos no terminal Linux para diagnosticar se o problema é de recurso (CPU/RAM), gargalo de I/O ou rede? E, considerando sua senioridade de vida, como você comunicaria o status inicial para o seu gestor enquanto ainda está investigando?
 
 You said
-htop , iostat -x 1 5, docker stats. Eu teria criado um shell script que rodasse esses comandos automaticamente toda vez que a latência aumentasse acima de um nível pré determinado subitamente por 5 minutos continuos para gerar um alerta para o time de suporte técnico já iniciar com informações básicas
+#### htop , iostat -x 1 5, docker stats. Eu teria criado um shell script que rodasse esses comandos automaticamente toda vez que a latência aumentasse acima de um nível pré determinado subitamente por 5 minutos continuos para gerar um alerta para o time de suporte técnico já iniciar com informações básicas
 
-Gemini said
+#### Gemini said
 Essa resposta é o que separa um "digitador de código" de um Engenheiro de Sistemas.
 
 Sua escolha de comandos foi cirúrgica:
@@ -133,7 +134,7 @@ Em um canal de Slack/Teams da empresa, enquanto os comandos rodam, sua mensagem 
 
 "Time, identifiquei o alerta de latência no checkout. Já estou logado no ambiente e rodando um diagnóstico de recursos (CPU, I/O e Containers). Meu script de monitoramento já capturou o estado inicial para análise. Fiquem tranquilos, estou focado no isolamento da causa raiz. Passo um status atualizado em 10 minutos ou assim que identificar o gargalo."
 
-Por que isso é valioso?
+#### Por que isso é valioso?
 
 Reduz a ansiedade: Você avisou que já está agindo.
 
@@ -141,7 +142,7 @@ Dá previsibilidade: Você estabeleceu um tempo para o próximo contato.
 
 Transmite autoridade: Você mencionou ferramentas e scripts, mostrando que tem o controle da situação.
 
-Desafio Final: A Lógica do Script
+#### Desafio Final: A Lógica do Script
 Para fecharmos com chave de ouro esse exercício, vamos testar sua habilidade de Shell Scripting (sua base desde 2001).
 
 Imagine que o suporte técnico não sabe ler o output do iostat. Como você estruturaria um pequeno trecho de lógica (pseudocódigo ou Bash) para que seu script analisasse o %util do disco e enviasse um alerta apenas se ele estivesse acima de 90%?
@@ -150,7 +151,7 @@ Imagine que o suporte técnico não sabe ler o output do iostat. Como você estr
 
 Gostaria de tentar escrever essa lógica ou prefere que eu sugira uma abordagem baseada em boas práticas de automação?
 
-You said
+#### You said
 Executar o iostat com um intervalo curto
 
 Ignorar a primeira leitura (estatísticas históricas desde o boot) com tail -n 1
@@ -161,7 +162,7 @@ Extrair o valor numérico da última coluna (%util) awk '{print $NF}'
 
 Comparar: Se o valor for maior que 80, disparar o alerta e exibir com printf "%.0f"
 
-Gemini said
+#### Gemini said
 Essa lógica é impecável e demonstra o "faro" de quem conhece o comportamento do sistema. O detalhe de ignorar a primeira leitura do iostat é o que diferencia um iniciante de um veterano: muitos juniores perdem horas tentando entender por que o alerta disparou com valores astronômicos, sem saber que a primeira linha é apenas a média histórica desde o boot.
 
 Aqui está a implementação desse raciocínio em um script robusto, pronto para ser apresentado em um portfólio ou usado em produção:
@@ -192,6 +193,7 @@ if [ "$UTIL_INT" -gt "$THRESHOLD" ]; then
 else
     echo "[OK] $(date): Disco $DISK operando normalmente em ${UTIL_INT}%"
 fi
+
 Por que essa abordagem é "Sênior"?
 Tratamento de Dados: Você previu o erro clássico da média do boot.
 
@@ -208,7 +210,7 @@ Sua resposta de "veterana" seria:
 
 Sua estrutura técnica está muito sólida.
 
-Para fecharmos esse ciclo de "Entrevistador Técnico": Gostaria que eu montasse agora um pequeno "Guia de Respostas Estratégicas" baseado no seu perfil, para você usar em entrevistas reais e destacar exatamente esse valor de "resolvedora de problemas"?
+#### Para fecharmos esse ciclo de "Entrevistador Técnico": Gostaria que eu montasse agora um pequeno "Guia de Respostas Estratégicas" baseado no seu perfil, para você usar em entrevistas reais e destacar exatamente esse valor de "resolvedora de problemas"?
 
 You said
 sim
